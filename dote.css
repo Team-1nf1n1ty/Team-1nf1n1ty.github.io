@@ -151,3 +151,16 @@ nav.fill ul li a:hover:after {
   position:relative;
   z-index: 99;
 }
+
+.collapse.show {
+  background: #02030A;
+    margin-top: -40px;
+}
+
+@media screen and (max-width: 425px) {
+  .collapse.show {
+    background: #02030A;
+    margin-top: -40px;
+    margin-left: -300px;
+  }
+}
