@@ -140,6 +140,12 @@ nav.fill ul li a:hover:after {
   text-align: center;
 }
 
+.hero-1 {
+
+  display: flex;
+  align-items: center;
+}
+
 .coming-soon .container{
   height:100%;
   position:relative;
