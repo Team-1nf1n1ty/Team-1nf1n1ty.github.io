@@ -192,6 +192,13 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
   padding: 0em 0em 0em 0em;
 }
 
+#homie2 {
+  background: url("photo2.jfif") no-repeat center;
+  position: relative;
+  background-size: cover;
+  padding: 0em 0em 0em 0em;
+}
+
 #members {
   background: url("Rectangle\ 10.png") no-repeat center;
   position: relative;

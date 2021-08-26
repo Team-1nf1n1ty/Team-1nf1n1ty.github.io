@@ -3,12 +3,29 @@
 }
 
 
+.hero-1 {
+    background: url('photo3.webp'), linear-gradient(to right, #02030A, #02030A);
+    background-repeat: no-repeat;
+    height: 90vh;
+    background-position: right;
+    color: white;
+}
+
+@media  (max-width: 991px) {
+    .hero-1 {
+        background: unset;
+        background-color: #02030A !important;
+    }
+
+}
+
 .fixed-top {
     top: -40px;
-    background-color: #1a2124;
+    background-color: #02030A;
     height: 100px;
     transform: translateY(40px);
     transition: transform .3s;
+    font-family: 'Open Sans', sans-serif;
 }
 
 nav ul li a,
