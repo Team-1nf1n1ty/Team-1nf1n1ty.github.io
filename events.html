@@ -1,112 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="index.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
-      crossorigin="anonymous"
-    />
-  </head>
-  <body>
-    <section>
-      <div class="members-home">
-       <header id="header" class="navigation">
-         <nav class="navbar navbar-expand-lg navbar-light nav-container">
-         <div class="container-fluid collapse navbar-collapse" id="navbarToggler9">
-         <a class="navbar-brand" href="#"> <img src="1nf1n1ty.png" class="img-fluid" id="brand" alt=" "/></a>
-         <button class="navbar-toggler navbar-dark navbar-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
-         <span class="navbar-toggler-icon " style="color:white;font-size:20px"></span>
-         </button>
-         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-         <ul class="navbar-nav me-auto mb-2 mb-lg-0 nav justify navbar-nav">
-         <li class="nav-item">
-         <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="./events.html">Events</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link" href="./members.html">Members</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link" href="./index.html#1">About us</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>        
-</div>
-</header>  
-    </section>
-    <div class="eventcards">
-      <div class="card">
-        <h5 class="card-header">Featured</h5>
-        <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">
-            With supporting text below as a natural lead-in to additional
-            content.
-          </p>
-          <a
-            href="#"
-            class="btn"
-            style="background-color: #bd003e; color: white"
-            >Go somewhere</a
-          >
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="index.css">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&family=Open+Sans&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/c4c2b2cd81.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+  <link rel="stylesheet" href="dote.css">
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top" id="navbar_top" style="background: unset;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#"> <img src="1nf1n1ty.png" class="brand-img" alt=" "
+            style="width: 120px;" /></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon" style="color:white;font-size:20px"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+          <nav class="stroke">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link"  href="./index.html">Home</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#" aria-current="page" style="color: #d8392b !important;">Events</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./members.html">Members</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="./index.html#about-us">About us</a>
+              </li>
+            </ul>
+          </nav>
         </div>
       </div>
-    </div>
-    <div class="eventcards">
-      <div class="card">
-        <h5 class="card-header">Featured</h5>
-        <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">
-            With supporting text below as a natural lead-in to additional
-            content.
-          </p>
-          <a
-            href="#"
-            class="btn"
-            style="background-color: #bd003e; color: white"
-            >Go somewhere</a
-          >
-        </div>
+    </nav>
+  </header>
+  <main class="coming-soon" style="overflow-y: hidden;">
+    <div class="overlay-coming-soon"></div>
+    <div class="container">
+      <div class="px-4 py-5 my-5 text-center hero-content">
+        <h1 class="display-5 fw-bold text-white">This page is under construction</h1>
       </div>
     </div>
-    <div class="eventcards">
-      <div class="card">
-        <h5 class="card-header">Featured</h5>
-        <div class="card-body">
-          <h5 class="card-title">Special title treatment</h5>
-          <p class="card-text">
-            With supporting text below as a natural lead-in to additional
-            content.
-          </p>
-          <a
-            href="#"
-            class="btn"
-            style="background-color: #bd003e; color: white"
-            >Go somewhere</a
-          >
+  </main>
+  <footer class="fixed-bottom">
+    <div class="container">
+      <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <div class="col-md-4 d-flex align-items-center">
+          <span class="text-white">&copy; 2021 Team 1nf1n1ty</span>
         </div>
-      </div>
+    
+        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          <li class="ms-2"><a class="text-white" href="https://www.instagram.com/team_1nf1n1ty/"><i class="fab fa-instagram"></i></a></li>
+          <li class="ms-2"><a class="text-white" href="https://discord.gg/hSEbqhNdAa"><i class="fab fa-discord"></i></a></li>
+        </ul>
+      </footer>
     </div>
-       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-  </body>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+</body>
+
 </html>

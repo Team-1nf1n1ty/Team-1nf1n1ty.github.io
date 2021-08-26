@@ -88,3 +88,60 @@ nav.fill ul li a:hover:after {
   -moz-animation: fill 1s forwards;
   opacity: 1;
 }
+
+.coming-soon {
+  background-image: url("./coming-soon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #0e0129;
+  height: 100vh;
+  overflow: auto;
+  position: relative;
+  padding: 30px;
+}
+
+.overlay-coming-soon {
+  position: relative;
+}
+
+.overlay-coming-soon {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url("./overlay-shape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  -webkit-filter: brightness(.9) contrast(1.5);
+  filter: brightness(.9) contrast(1.5);
+  z-index: 10;
+}
+
+.hero-content {
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.coming-soon .container{
+  height:100%;
+  position:relative;
+  z-index: 99;
+}
