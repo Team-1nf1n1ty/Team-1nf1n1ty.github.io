@@ -2,6 +2,12 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
 
 .hero-1 {
     background: url('photo3.webp'), linear-gradient(to right, #02030A, #02030A);
