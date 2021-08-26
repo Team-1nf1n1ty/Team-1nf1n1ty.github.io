@@ -60,9 +60,6 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
 
 #header {
   z-index: 10000;
-  left: 0;
-  top: 0;
-  line-height: 3em;
   color: rgb(255, 255, 255);
 }
 
@@ -79,11 +76,6 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
   font-size: 1.25em;
 }
 
-#header nav {
-  position: relative;
-  right: 0.5em;
-  top: 0;
-}
 
 #header nav ul {
   margin: 0;
@@ -238,7 +230,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
 #brand {
   float: left;
   position: relative;
-  margin: -1.7em 0em -1.9em 0em;
+  /*margin: -1.7em 0em -1.9em 0em;*/
   height: 140px;
   width: 160px;
 }
@@ -457,7 +449,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
 .navbar .navbar-nav .nav-link {
   position: relative;
 }
-.navbar .navbar-nav .nav-link::after {
+/*.navbar .navbar-nav .nav-link::after {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -469,7 +461,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
   content: "";
   height: 3px;
   transition: all 0.5s;
-}
+}*/
 .navbar .navbar-nav .nav-link:hover::after {
   width: 100%;
 }
@@ -488,7 +480,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
 .navbar .navbar-nav .nav-link {
   position: relative;
 }
-.navbar .navbar-nav .nav-link::after {
+/*.navbar .navbar-nav .nav-link::after {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -500,7 +492,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
   content: "";
   height: 3px;
   transition: all 0.5s;
-}
+}*/
 .navbar .navbar-nav .nav-link:hover::after {
   width: 100%;
 }
@@ -893,8 +885,8 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light.nav-container {
   img#brand.img-fluid {
     float: left;
     position: relative;
-    margin: -2.3em 4em -5em -2em;
-    padding-right: -6em;
+    /*margin: -2.3em 4em -5em -2em;
+    padding-right: -6em;*/
     width: 130px;
     height: 100px;
   }
