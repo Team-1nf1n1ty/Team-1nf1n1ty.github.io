@@ -136,11 +136,31 @@
 
                     </p>
 
-                    <a href="javascript:void(alert('Registrations are closed!'));"><button class="btn btn-outline-secondary" type="button">Join the General Team</button></a>
+                    <a href="javascript:void(registerForGeneral())"><button class="btn btn-outline-secondary" type="button">Join the General Team</button></a>
                 </div>
             </div>
         </div>
     </div>
+
+    <div aria-live="polite" aria-atomic="true" class="bg-dark">
+        <div class="toast-container position-fixed p-3 bottom-0 end-0" id="toastPlacement" style="z-index: 9999;">
+          <div class="toast bg-danger text-white" id="inf-toast">
+            <div class="toast-header">
+              <strong class="me-auto">1nf1n1ty</strong>
+              <small>Just now</small>
+            </div>
+            <div class="toast-body">
+              Sorry, the registrations are now closed for General Team.
+            </div>
+          </div>
+        </div>
+    </div>
+    <script>
+        function registerForGeneral() {
+            var toast = new bootstrap.Toast($("#inf-toast")[0]);
+            toast.show();
+        }
+    </script>
 
     <footer>
         <div class="container">
