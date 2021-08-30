@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://1nf1n1ty.team/blog/sitemap.xml

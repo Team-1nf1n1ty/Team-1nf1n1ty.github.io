@@ -1,0 +1,75 @@
+---
+author: "dote"
+title: "Example Writeup"
+date: "2021-08-30"
+description: "Template for CTF writeups"
+tags: ["writeup", "example"]
+---
+
+<!-- gist of the writeip -->
+## tl;dr
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Nullam non ex vel metus rutrum vehicula.
+- Nunc quis lorem cursus, tincidunt nulla a, iaculis nisl.
+- Morbi dignissim purus sit amet maximus lobortis.
+
+*Anything else you want to brief over*
+**Author if required**
+
+
+<!-- analysis/detailed explanation split into sections -->
+## Lorem Ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a arcu et enim porta aliquet. Etiam pretium est eget orci sagittis porta. Curabitur at eros sed lorem aliquet condimentum volutpat eget ipsum. Pellentesque velit est, pretium nec nisl vel, pretium pellentesque lectus. Ut laoreet leo vel tortor auctor, et mollis urna finibus. Integer accumsan sit amet lorem viverra vulputate. Curabitur fringilla dapibus massa eu pharetra. Maecenas in sapien tempor, sodales orci id, fringilla enim. In lacinia vestibulum arcu, ac iaculis metus fringilla ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In quis metus dictum, tempus ligula quis, hendrerit dolor. Integer et pretium massa.
+
+<!-- if you need a horizontal divider line -->
+---
+
+## Lorem Ipsum 2
+
+Vivamus consequat tortor a pulvinar pharetra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin eu interdum diam. Quisque lacinia, nunc eget euismod bibendum, enim turpis tristique sem, a cursus felis neque at nulla. Quisque scelerisque urna a eros auctor placerat.
+
+
+**If you need to include in codes with syntax highlight**
+
+{{< highlight python >}}
+import pwn
+
+conn = pwn.remote(("localhost", 6112))
+conn.send("<policy-file-request/>\r\n")
+
+print("cross-domain policy:", conn.recvline())
+
+{{< /highlight >}}
+
+
+**You can otherwise use normal triple backticks**
+
+```py
+import math
+
+print(math.factorial(1))
+```
+
+---
+<!-- end with the flag -->
+## Flag
+
+The flag thus obtained is: `ExampleCTF{d0_1_l00k_l1k3_4_f00l}`
+
+{{< css.inline >}}
+<style>
+.emojify {
+	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+	font-size: 2rem;
+	vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+  .nowrap {
+    display: block;
+    margin: 25px 0;
+  }
+}
+</style>
+
+{{< /css.inline >}}
