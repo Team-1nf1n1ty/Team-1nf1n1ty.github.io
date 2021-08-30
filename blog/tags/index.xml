@@ -29,6 +29,24 @@
     </item>
     
     <item>
+      <title>corCTF</title>
+      <link>https://1nf1n1ty.team/blog/tags/corctf/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/corctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>https://1nf1n1ty.team/blog/tags/crypto/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ctf</title>
       <link>https://1nf1n1ty.team/blog/tags/ctf/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
@@ -65,6 +83,15 @@
     </item>
     
     <item>
+      <title>python</title>
+      <link>https://1nf1n1ty.team/blog/tags/python/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>script</title>
       <link>https://1nf1n1ty.team/blog/tags/script/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
@@ -79,24 +106,6 @@
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://1nf1n1ty.team/blog/tags/writeup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>crypto</title>
-      <link>https://1nf1n1ty.team/blog/tags/crypto/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/crypto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://1nf1n1ty.team/blog/tags/python/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/python/</guid>
       <description></description>
     </item>
     
