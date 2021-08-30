@@ -9,13 +9,76 @@
       <link>https://1nf1n1ty.team/blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021</title>
       <link>https://1nf1n1ty.team/blog/tags/2021/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://1nf1n1ty.team/blog/tags/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://1nf1n1ty.team/blog/tags/bash/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctf</title>
+      <link>https://1nf1n1ty.team/blog/tags/ctf/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fword</title>
+      <link>https://1nf1n1ty.team/blog/tags/fword/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/fword/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fwordctf</title>
+      <link>https://1nf1n1ty.team/blog/tags/fwordctf/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/fwordctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privesc</title>
+      <link>https://1nf1n1ty.team/blog/tags/privesc/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/privesc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script</title>
+      <link>https://1nf1n1ty.team/blog/tags/script/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writeup</title>
+      <link>https://1nf1n1ty.team/blog/tags/writeup/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/tags/writeup/</guid>
       <description></description>
     </item>
     
@@ -29,56 +92,11 @@
     </item>
     
     <item>
-      <title>ctf</title>
-      <link>https://1nf1n1ty.team/blog/tags/ctf/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/ctf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fword</title>
-      <link>https://1nf1n1ty.team/blog/tags/fword/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/fword/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fwordctf</title>
-      <link>https://1nf1n1ty.team/blog/tags/fwordctf/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/fwordctf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>python</title>
       <link>https://1nf1n1ty.team/blog/tags/python/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://1nf1n1ty.team/blog/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>script</title>
-      <link>https://1nf1n1ty.team/blog/tags/script/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/script/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writeup</title>
-      <link>https://1nf1n1ty.team/blog/tags/writeup/</link>
-      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/tags/writeup/</guid>
       <description></description>
     </item>
     

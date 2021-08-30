@@ -3,16 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://1nf1n1ty.team/blog/tags/2021/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/2021/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/bash/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/categories/bash/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/categories/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/ctf/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/2021/devprivops/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/fword/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/fwordctf/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/categories/fwordctf-2021/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/privesc/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/script/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/writeup/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/categories/writeup/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/tags/crypto/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
@@ -20,43 +65,10 @@
     <loc>https://1nf1n1ty.team/blog/categories/crypto/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/ctf/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/fword/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/fwordctf/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/categories/fwordctf-2021/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/2021/leaky-blinders/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/tags/python/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/script/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/writeup/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/categories/writeup/</loc>
-    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/writeups/</loc>
     <lastmod>2021-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/archives.fr/</loc>
