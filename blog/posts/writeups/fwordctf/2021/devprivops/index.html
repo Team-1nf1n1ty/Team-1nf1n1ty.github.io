@@ -328,7 +328,7 @@ eval &#34;function $name { terraform init &amp;&gt;/dev/null &amp;&amp; terrafor
 <pre tabindex=0 class=chroma><code><span class=lnt>1
 </span></code></pre></td>
 <td class=lntd>
-<pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>test { cat text.txt; }; $name; #
+<pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>test { cat flag.txt; }; $name; #
 </code></pre></td></tr></table>
 </div>
 </div><p>Which make the <code>eval</code> part to look something like this,</p>
@@ -338,7 +338,7 @@ eval &#34;function $name { terraform init &amp;&gt;/dev/null &amp;&amp; terrafor
 </span><span class=lnt>2
 </span></code></pre></td>
 <td class=lntd>
-<pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>eval &#34;function test { cat text.txt; }; $name; # { terraform init &amp;&gt;/dev/null &amp;&amp; terraform apply &amp;&gt;/dev/null ; echo \&#34;It should be deployed now\&#34;; }&#34;
+<pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>eval &#34;function test { cat flag.txt; }; $name; # { terraform init &amp;&gt;/dev/null &amp;&amp; terraform apply &amp;&gt;/dev/null ; echo \&#34;It should be deployed now\&#34;; }&#34;
 
 </code></pre></td></tr></table>
 </div>
