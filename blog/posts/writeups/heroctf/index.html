@@ -3,11 +3,11 @@
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
 <meta name=robots content="index, follow">
-<title>HeroCTF | Blog | 1nf1n1ty</title>
+<title>HeroCTF writeups | Blog | 1nf1n1ty</title>
 <meta name=keywords content>
-<meta name=description content="1nf1n1ty blog">
+<meta name=description content="Contains writeups for various HeroCTFs">
 <meta name=author content="dote">
-<link rel=canonical href=https://1nf1n1ty.team/blog/categories/heroctf/>
+<link rel=canonical href=https://1nf1n1ty.team/blog/posts/writeups/heroctf/>
 <link crossorigin=anonymous href=/blog/assets/css/stylesheet.min.032c4fffec96510fd6f5fb00550764f4ec5a2dcb7bdfd79c6720bb2a201cea2a.css integrity="sha256-AyxP/+yWUQ/W9fsAVQdk9OxaLct739ecZyC7KiAc6io=" rel="preload stylesheet" as=style>
 <link rel=icon href=https://1nf1n1ty.team/blog/favicon.ico>
 <link rel=icon type=image/png sizes=16x16 href=https://1nf1n1ty.team/blog/favicon-16x16.png>
@@ -17,15 +17,16 @@
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <meta name=generator content="Hugo 0.87.0">
-<link rel=alternate type=application/rss+xml href=https://1nf1n1ty.team/blog/categories/heroctf/index.xml>
-<meta property="og:title" content="HeroCTF">
-<meta property="og:description" content="1nf1n1ty blog">
+<link rel=alternate type=application/rss+xml href=https://1nf1n1ty.team/blog/posts/writeups/heroctf/index.xml>
+<meta property="og:title" content="HeroCTF writeups">
+<meta property="og:description" content="Contains writeups for various HeroCTFs">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://1nf1n1ty.team/blog/categories/heroctf/"><meta property="og:image" content="https://1nf1n1ty.team/blog/papermod-cover.png">
+<meta property="og:url" content="https://1nf1n1ty.team/blog/posts/writeups/heroctf/"><meta property="og:image" content="https://1nf1n1ty.team/blog/papermod-cover.png">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://1nf1n1ty.team/blog/papermod-cover.png">
-<meta name=twitter:title content="HeroCTF">
-<meta name=twitter:description content="1nf1n1ty blog">
+<meta name=twitter:title content="HeroCTF writeups">
+<meta name=twitter:description content="Contains writeups for various HeroCTFs">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://1nf1n1ty.team/blog/posts/"},{"@type":"ListItem","position":2,"name":"writeups","item":"https://1nf1n1ty.team/blog/posts/writeups/"},{"@type":"ListItem","position":3,"name":"HeroCTF writeups","item":"https://1nf1n1ty.team/blog/posts/writeups/heroctf/"}]}</script>
 </head>
 <body class=list id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -67,20 +68,21 @@
 </nav>
 </header>
 <main class=main>
-<header class=page-header><div class=breadcrumbs><a href=https://1nf1n1ty.team/blog/>Home</a>&nbsp;»&nbsp;<a href=https://1nf1n1ty.team/blog/categories/>Categories</a></div>
-<h1>HeroCTF</h1>
+<header class=page-header><div class=breadcrumbs><a href=https://1nf1n1ty.team/blog/>Home</a>&nbsp;»&nbsp;<a href=https://1nf1n1ty.team/blog/posts/>Posts</a>&nbsp;»&nbsp;<a href=https://1nf1n1ty.team/blog/posts/writeups/>writeups</a></div>
+<h1>HeroCTF writeups</h1>
+<div class=post-description>
+Contains writeups for various HeroCTFs
+</div>
 </header>
-<article class="post-entry tag-entry">
+<article class=post-entry>
 <header class=entry-header>
-<h2>The Obligatory RSA Challenge — DawgCTF 2021</h2>
+<h2>HeroCTF 2021 writeups</h2>
 </header>
 <section class=entry-content>
-<p>tl;dr Analyze the given information - Use factordb & dcode.fr to solve the RSA. Given information We have been given a text file that contains n , e , & c.
-1 2 3 n = 475949103910858550021125990924158849158697270648919661828320221786290971910801162715741857913263841305791340620183586047714776121441772996725204443295179887266030140253810088374694440549840736495636788558700921470022460434066253254392608133925706614740652788148941399543678467908310542011120056872547434605870421155328267921959528599997665673446885264987610889953501339256839810594999040236799426397622242067047880689646122710665080146992099282095339487080392261213074797358333223941498774483959648045020851532992076627047052728717413962993083433168342883663806239435330220440022810109411458433074000776611396383445744445358833608257489996609945267087162284574007467260111258273237340835062232433554776646683627730708184859379487925275044556485814813002091723278950093183542623267574653922976836227138288597533966685659873510636714530467992896001651744874195741686965980241950250826962186888426335553052644834563667046655173614036106867858602780687612991191030530253828632354662026863532605714273940100720042141793891322151633985026545935269398026536029250450509019273191619994794225225837195941413997081931530563686314944827757612844439598729054246326818359094052377829969668199706378215473562124250809041972492524806233512261976041 e = 65537 c = 402152770613351738677048755708324474554170176764376236321890073753918413309501149040535095814748232081435325267703210634002909644227960630174709988528642707754801508241021668904011536073077213912653767687757898322382171898337974911700337832550299932085103965369544431307577718773533194882182023481111058393084914882624811257799702110086578537559675833661097129217671283819819802719020785020449340858391080587707215652771744641811550418602816414116540750903339669304799230376985830812200326676840611164703480548721567059811144937314764079780635943387160912954258110357655610465371113884532394048454506662310124118115282815379922723111955622863507979527460353779351769204461491799016534724821436662464400182076767643570270346372132221638470790194373337215168535861219992353368908816850146790012604023887493693793270280077392301335013736929937492555191042177475011094313978657365706039774511145223613781837484571546154539993982179172011867034689022507760853121804219571982660393205589671062476958539437099789304135763092469236641459611160765143625998223459045923936551054351546033776966693997323972592968414107451804594097481574453747907874383069514662912314790514989026350766602740419907710031860078783498791071782013064557781230616536 We know that:
-n = p*q e is the public key exponent c is the Cipher Text Solution We can find p & q from n using factordb...</p>
+<p>Contains HeroCTF 2021 writeups</p>
 </section>
-<footer class=entry-footer>May 5, 2021&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Brij</footer>
-<a class=entry-link aria-label="post link to The Obligatory RSA Challenge — DawgCTF 2021" href=https://1nf1n1ty.team/blog/posts/writeups/heroctf/2021/the-obligatory-rsa-challenge/></a>
+<footer class=entry-footer>May 5, 2021&nbsp;·&nbsp;0 min&nbsp;·&nbsp;dote</footer>
+<a class=entry-link aria-label="post link to HeroCTF 2021 writeups" href=https://1nf1n1ty.team/blog/posts/writeups/heroctf/2021/></a>
 </article>
 </main>
 <footer class=footer>
