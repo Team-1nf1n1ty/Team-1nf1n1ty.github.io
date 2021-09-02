@@ -37,5 +37,14 @@
       <description>Writeup on RSA based Challenge The obligatory RSA Challenge.</description>
     </item>
     
+    <item>
+      <title>Russian Doll — Write up (HeroCTF)</title>
+      <link>https://1nf1n1ty.team/blog/posts/writeups/heroctf/2021/russian-doll/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/posts/writeups/heroctf/2021/russian-doll/</guid>
+      <description>This is my write-up for the ‘Russian Doll’ Challenge in HeroCTF 2021</description>
+    </item>
+    
   </channel>
 </rss>
