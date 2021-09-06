@@ -9,7 +9,34 @@
       <link>https://1nf1n1ty.team/blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GranCON</title>
+      <link>https://1nf1n1ty.team/blog/categories/grancon/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/categories/grancon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osint</title>
+      <link>https://1nf1n1ty.team/blog/categories/osint/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/categories/osint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writeup</title>
+      <link>https://1nf1n1ty.team/blog/categories/writeup/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/categories/writeup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bash</title>
       <link>https://1nf1n1ty.team/blog/categories/bash/</link>
@@ -43,15 +70,6 @@
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://1nf1n1ty.team/blog/categories/fwordctf-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writeup</title>
-      <link>https://1nf1n1ty.team/blog/categories/writeup/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/categories/writeup/</guid>
       <description></description>
     </item>
     

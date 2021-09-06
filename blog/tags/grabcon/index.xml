@@ -19,5 +19,14 @@
       <description>GrabCON CTF -OSINT writeup for The Tour(1)</description>
     </item>
     
+    <item>
+      <title>Tour (2) - GrabCON CTF</title>
+      <link>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour2/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour2/</guid>
+      <description>This is my write-up for the ‘Tour (2)’ Challenge in GrabCON CTF 2021</description>
+    </item>
+    
   </channel>
 </rss>
