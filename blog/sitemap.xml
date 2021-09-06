@@ -120,6 +120,8 @@
   </url><url>
     <loc>https://1nf1n1ty.team/blog/archives/</loc>
   </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/grabcon/</loc>
+  </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/</loc>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/</loc>
@@ -130,6 +132,10 @@
   </url><url>
     <loc>https://1nf1n1ty.team/blog/series/</loc>
   </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/the-tour1/</loc>
+  </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/wormconctf/</loc>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</loc>
   </url>
 </urlset>

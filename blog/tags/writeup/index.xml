@@ -46,5 +46,14 @@
       <description>Writeup for HeroCTFv3 CTF 2021 - Reverse/Leaky Blinders</description>
     </item>
     
+    <item>
+      <title>“The Tour(1)”</title>
+      <link>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</guid>
+      <description>“GrabCON CTF -OSINT writeup for The Tour(1)”</description>
+    </item>
+    
   </channel>
 </rss>
