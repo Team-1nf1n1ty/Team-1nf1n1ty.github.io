@@ -11,6 +11,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>EasyBin - GrabconCTF 2021</title>
+      <link>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/easybin/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/easybin/</guid>
+      <description>This is my write-up for the ‘EasyBin’ Challenge in GrabCON CTF 2021</description>
+    </item>
+    
+    <item>
       <title>The Tour(1)</title>
       <link>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
