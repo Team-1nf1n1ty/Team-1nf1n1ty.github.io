@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://1nf1n1ty.team/blog/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/ctf/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/grabcon/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/the-tour1/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/tags/writeup/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1nf1n1ty.team/blog/posts/writeups/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://1nf1n1ty.team/blog/tags/2021/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +45,6 @@
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/categories/bash/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/categories/</loc>
@@ -38,9 +68,6 @@
     <loc>https://1nf1n1ty.team/blog/categories/crypto/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/ctf/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/2021/devprivops/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,9 +86,6 @@
     <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/2021/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/tags/privesc/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,16 +95,7 @@
     <loc>https://1nf1n1ty.team/blog/tags/script/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/writeup/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/categories/writeup/</loc>
-    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/writeups/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/fwordctf/2021/leaky-blinders/</loc>
@@ -120,22 +135,12 @@
   </url><url>
     <loc>https://1nf1n1ty.team/blog/archives/</loc>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/grabcon/</loc>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/</loc>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/</loc>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/search/</loc>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/search.fr/</loc>
   </url><url>
     <loc>https://1nf1n1ty.team/blog/series/</loc>
   </url><url>
-    <loc>https://1nf1n1ty.team/blog/tags/the-tour1/</loc>
-  </url><url>
     <loc>https://1nf1n1ty.team/blog/posts/writeups/wormconctf/</loc>
-  </url><url>
-    <loc>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</loc>
   </url>
 </urlset>

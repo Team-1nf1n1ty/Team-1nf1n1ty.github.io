@@ -9,7 +9,16 @@
       <link>https://1nf1n1ty.team/blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://1nf1n1ty.team/blog/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tour(1)</title>
+      <link>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</guid>
+      <description>GrabCON CTF -OSINT writeup for The Tour(1)</description>
+    </item>
+    
     <item>
       <title>4096 - corCTF 2021</title>
       <link>https://1nf1n1ty.team/blog/posts/writeups/corctf/2021/4096/</link>
@@ -62,15 +71,6 @@
       
       <guid>https://1nf1n1ty.team/blog/posts/writeups/heroctf/2021/russian-doll/</guid>
       <description>This is my write-up for the ‘Russian Doll’ Challenge in HeroCTF 2021</description>
-    </item>
-    
-    <item>
-      <title>“The Tour(1)”</title>
-      <link>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/</guid>
-      <description>“GrabCON CTF -OSINT writeup for The Tour(1)”</description>
     </item>
     
   </channel>
