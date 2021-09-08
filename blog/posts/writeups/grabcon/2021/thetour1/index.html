@@ -28,7 +28,7 @@
 <meta name=twitter:title content="The Tour(1) - GrabCON CTF">
 <meta name=twitter:description content="GrabCON CTF -OSINT writeup for The Tour(1)">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://1nf1n1ty.team/blog/posts/"},{"@type":"ListItem","position":2,"name":"writeups","item":"https://1nf1n1ty.team/blog/posts/writeups/"},{"@type":"ListItem","position":3,"name":"GrabCON writeups","item":"https://1nf1n1ty.team/blog/posts/writeups/grabcon/"},{"@type":"ListItem","position":4,"name":"GrabCON 2021 writeups","item":"https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/"},{"@type":"ListItem","position":5,"name":"The Tour(1) - GrabCON CTF","item":"https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"The Tour(1) - GrabCON CTF","name":"The Tour(1) - GrabCON CTF","description":"GrabCON CTF -OSINT writeup for The Tour(1)","keywords":["writeup","the tour(1)","GrabCON","CTF"],"articleBody":"Description from the challenge w0nd3r50uL! I know her but she did something horrible! She recently switched to some free and open-source software for running self-hosted social networking services. Check out her profile and find the last location she visited when she felt hungry?   As they mentioned w0nd3r50uL! is username of social media (open-source self hosted media)\n  We can find the self hosted social network - Mastodon\n  https://mastodon.social/@w0nd3r50uL -link address\n   After doing reverse image search in google ,we will get the direct link with details of the cafe https://cumaps.net/en/RS/cafeteria-gardos-p67266   There we can find this funny review in future as you can see the date of my writeup😀   As we view this map in larger view   There you can see the flag is in review section of map details!!  Flag GrabCON{Oops_I_forgot_to_hide}\n","wordCount":"129","inLanguage":"en","datePublished":"2021-09-05T00:00:00Z","dateModified":"2021-09-05T00:00:00Z","author":{"@type":"Person","name":"tasarmays"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/"},"publisher":{"@type":"Organization","name":"Blog | 1nf1n1ty","logo":{"@type":"ImageObject","url":"https://1nf1n1ty.team/blog/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"The Tour(1) - GrabCON CTF","name":"The Tour(1) - GrabCON CTF","description":"GrabCON CTF -OSINT writeup for The Tour(1)","keywords":["writeup","the tour(1)","GrabCON","CTF"],"articleBody":"Description from the challenge  w0nd3r50uL! I know her but she did something horrible! She recently switched to some free and open-source software for running self-hosted social networking services.Check out her profile and find the last location she visited when she felt hungry?  Information Gathered   As they mentioned w0nd3r50uL! is username of social media (open-source self hosted media)\n  We can find the self hosted social network - Mastodon\n  https://mastodon.social/@w0nd3r50uL -link address\n   After doing reverse image search in google ,we will get the direct link with details of the cafe https://cumaps.net/en/RS/cafeteria-gardos-p67266   There we can find this funny review in future as you can see the date of my writeup😀  Finding the flag  As we view this map in larger view   There you can see the flag is in review section of map details!!  Flag GrabCON{Oops_I_forgot_to_hide}\n","wordCount":"133","inLanguage":"en","datePublished":"2021-09-05T00:00:00Z","dateModified":"2021-09-05T00:00:00Z","author":{"@type":"Person","name":"tasarmays"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://1nf1n1ty.team/blog/posts/writeups/grabcon/2021/thetour1/"},"publisher":{"@type":"Organization","name":"Blog | 1nf1n1ty","logo":{"@type":"ImageObject","url":"https://1nf1n1ty.team/blog/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -90,6 +90,10 @@ GrabCON CTF -OSINT writeup for The Tour(1)
 <li>
 <a href=#description-from-the-challenge aria-label="Description from the challenge">Description from the challenge</a></li>
 <li>
+<a href=#information-gathered aria-label="Information Gathered">Information Gathered</a></li>
+<li>
+<a href=#finding-the-flag aria-label="Finding the flag">Finding the flag</a></li>
+<li>
 <a href=#flag aria-label=Flag>Flag</a>
 </li>
 </ul>
@@ -98,9 +102,10 @@ GrabCON CTF -OSINT writeup for The Tour(1)
 </div>
 <div class=post-content>
 <h2 id=description-from-the-challenge>Description from the challenge<a hidden class=anchor aria-hidden=true href=#description-from-the-challenge>#</a></h2>
-<h2 id=check-out--her-profile-and-find-the-last-location-she-visited-when-she-felt-hungry>w0nd3r50uL! I know her but she did something horrible! She recently switched to some free and
-open-source software for running self-hosted social networking services.
-Check out her profile and find the last location she visited when she felt hungry?</h2>
+<ul>
+<li>w0nd3r50uL! I know her but she did something horrible! She recently switched to some free and open-source software for running self-hosted social networking services.Check out her profile and find the last location she visited when she felt hungry?</li>
+</ul>
+<h2 id=information-gathered>Information Gathered<a hidden class=anchor aria-hidden=true href=#information-gathered>#</a></h2>
 <ul>
 <li>
 <p>As they mentioned w0nd3r50uL! is username of social media (open-source self hosted media)</p>
@@ -124,6 +129,7 @@ Check out her profile and find the last location she visited when she felt hungr
 </ul>
 <p><img loading=lazy src=https://user-images.githubusercontent.com/66670617/132173023-867e77aa-f867-4490-aa8e-8a5289eac283.png alt=image>
 </p>
+<h2 id=finding-the-flag>Finding the flag<a hidden class=anchor aria-hidden=true href=#finding-the-flag>#</a></h2>
 <ul>
 <li>As we view this map in larger view</li>
 </ul>
