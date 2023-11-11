@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /this-route-is-for-developer-testing
+
+Sitemap: https://localhost/sitemap.xml
